@@ -1,0 +1,6 @@
+temp/
+*.nii
+*.nii.gz
+*.dcm
+*.mat
+*.asv
